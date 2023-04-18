@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: About Ed Cardinal
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I have over 40 years in the software industry. My current expertise is creating CI/CD Build-Test-Release pipelines for monolithic and microservices on cloud platforms; much of my recent work has been with Jenkins, git, and Python in Docker/Kubernetes.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I have extensive hands-on experience in every aspect of the software lifecycle: analysis, design, development, QA, CI/CD, DevOps, migration, and end-of-life. I work on platforms at every scale: microdevices, mobile, desktop, mainframe, and cloud. My experience crosses diverse industries such as Financial/Lending, SQL and NoSQL Databases, GPS Navigation, Biotechnology, Supply-chain Logistics, Energy, and Direct Marketing.
